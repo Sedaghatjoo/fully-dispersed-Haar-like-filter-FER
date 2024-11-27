@@ -43,5 +43,5 @@ Sedaghatjoo, S. (2024). Fully Dispersed Haar-like Filter for Facial Expression R
 ```
 
 ## Links
-- **Dataset**: [Labels.mat](https://github.com/Sedaghatjoo/fully-dispersed-Haar-like-filter-FE/blob/main/Labels.mat) and [Pics.mat](https://github.com/Sedaghatjoo/fully-dispersed-Haar-like-filter-FE/blob/main/Pics.mat)
-- **GitHub Repository**: [https://github.com/Sedaghatjoo/fully-dispersed-Haar-like-filter-FE](https://github.com/Sedaghatjoo/fully-dispersed-Haar-like-filter-FE)
+- **Dataset**: [Labels.mat](https://github.com/Sedaghatjoo/fully-dispersed-Haar-like-filter-FER/blob/main/Labels.mat) and [Pics.mat](https://github.com/Sedaghatjoo/fully-dispersed-Haar-like-filter-FER/blob/main/Pics.mat)
+- **GitHub Repository**: [https://github.com/Sedaghatjoo/fully-dispersed-Haar-like-filter-FER](https://github.com/Sedaghatjoo/fully-dispersed-Haar-like-filter-FER)
