@@ -1,4 +1,4 @@
-# Project Title: Fully Dispersed Haar-like Filters for Feature Extraction of Facial Expressions Images
+# Project Title: Fully Dispersed Haar-like Filters for Facial Expressions Recognation
 
 ## Description
 This repository contains the MATLAB code and datasets for implementing the **Fully Dispersed Haar-like Filter** for feature extraction of facial expressions images. The goal of this project is to provide a Fully Dispersed Haar-like Filter for feature extraction, as proposed by **Z. Sedaghtjoo, H. Hosseinzadeh, and A. Shirzadi**.
