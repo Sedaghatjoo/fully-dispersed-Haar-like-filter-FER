@@ -1,4 +1,4 @@
-# Project Title: Fully Dispersed Haar-like Filters for Facial Expressions Recognition
+# Project Title: Fully Dispersed Haar-like Filters for Facial Expression Recognition (FER)
 
 ## Description
 This repository contains the MATLAB code and datasets for implementing the **Fully Dispersed Haar-like Filter** for feature extraction of face images. The goal of this project is to provide a Fully Dispersed Haar-like Filter for feature extraction, as proposed by **Z. Sedaghtjoo, H. Hosseinzadeh, and A. Shirzadi**. 
@@ -35,9 +35,8 @@ These filters also can be extracted for the facial experession recognaition with
 
 ## Contents
 - **MATLAB Code**: The main algorithm implemented in MATLAB for feature Extraction of face images process. 
-- **Datasets**: Two data files containing the clutter and face images used in this project.
+- **Dataset**: A data file containing some face images used in this project.
   - `Clutter2.mat`: Contains clutter data for training and testing.
-  - `Pics.mat`: Contains face images for training and testing.
 
 Some face and clutter images applied in this research are shown in the next figure.
 
