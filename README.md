@@ -77,24 +77,14 @@ image of size 64 × 64 is transformed to a row vector of length 4096 and inserte
    
 6. View the results in the MATLAB workspace.
    
-   The results include the graph of the optimized **fully dispersed Haar-like filter**:
-<img src="images/filter_matlab.png" alt="Centered Image" style="display: block; margin: auto;" width="200">
+   The results include the graph of the optimized **fully dispersed Haar-like filter** for feature extraction:
+<img src="images/expriFilters.jpg" alt="Centered Image" style="display: block; margin: auto;" width="200">
 
 and the graph of the accuracy of the filter can be seen as a result of the code. 
-The accuracy graph includes the error of Haar-like filter for classification of train and test images in each iteration of the algorithm :
+The confusion matrix includes the error of Haar-like filter for facial expression recognition classification is obtained:
    
-<img src="images/expriFilters.jpg" alt="Centered Image" style="display: block; margin: auto;" width="400">
+<img src="images/Table" alt="Centered Image" style="display: block; margin: auto;" width="400">
 
-Then the distribution of mean measurment of test images is shown:
-
-<img src="images/result_matlab3.png" alt="Centered Image" style="display: block; margin: auto;" width="400">
-
-And the distribution of mean measurment of train images:
-
-<img src="images/result_matlab2.png" alt="Centered Image" style="display: block; margin: auto;" width="400">
-
-These results show the efficiency of the Haar-like filter to distinguish the face and clutter images. 
-The accuracy of the classification also is reported in the MATLAB workspace.
 
 ## Contribution Guidelines
 We welcome contributions to improve the algorithm, code, or documentation. If you'd like to contribute, please:
@@ -107,12 +97,12 @@ We welcome contributions to improve the algorithm, code, or documentation. If yo
 ## Citation
 If you use this code or dataset in your research, please cite this repository in your work:
 ```
-Sedaghatjoo, S. (2024). Fully Dispersed Haar-like Filter for Face Detection. GitHub Repository. https://github.com/Sedaghatjoo/fully-dispersed-Haar-like-filter
+Sedaghatjoo, S. (2024). Fully Dispersed Haar-like Filter for Facial Expression Recognishion. GitHub Repository. https://github.com/Sedaghatjoo/fully-dispersed-Haar-like-filter-FER
 ```
 
 ## Links
-- **Dataset**: [Clutter2.mat](https://github.com/Sedaghatjoo/fully-dispersed-Haar-like-filter-FER/blob/master/Clutter2.mat) and [Pics.mat](https://github.com/Sedaghatjoo/fully-dispersed-Haar-like-filter-FD/blob/master/Pics.mat)
-- **GitHub Repository**: [https://github.com/Sedaghatjoo/fully-dispersed-Haar-like-filter-FER](https://github.com/Sedaghatjoo/fully-dispersed-Haar-like-filter-FD)
+- **Dataset**: [Clutter2.mat](https://github.com/Sedaghatjoo/fully-dispersed-Haar-like-filter-FER/blob/master/Clutter2.mat) and [Pics.mat](https://github.com/Sedaghatjoo/fully-dispersed-Haar-like-filter-FER/blob/master/Pics.mat)
+- **GitHub Repository**: [https://github.com/Sedaghatjoo/fully-dispersed-Haar-like-filter-FER](https://github.com/Sedaghatjoo/fully-dispersed-Haar-like-filter-FER)
 
 
 
