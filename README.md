@@ -41,7 +41,7 @@ These filters also can be extracted for the facial experession recognaition with
 
 Some face and clutter images applied in this research are shown in the next figure.
 
-<img src="images/FaceClutter.png" alt="Centered Image" style="display: block; margin: auto;" width="800">
+<img src="images/expression.png" alt="Centered Image" style="display: block; margin: auto;" width="800">
  
 The two-dimensional face and clutter images are resized to 64 × 64 and converted into one dimensional vectors by arranging the pixels contained in the images. In this situation, an
 image of size 64 × 64 is transformed to a row vector of length 4096 and inserted in a dataset as a row.
