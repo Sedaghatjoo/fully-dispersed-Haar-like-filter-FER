@@ -7,7 +7,7 @@ Haar-like filters are renowned for their simplicity, speed, and accuracy in vari
 Haar-like features are local texture descriptors that quantify differences in the average intensity values between adjacent rectangular regions. The following figure illustrates several simple Haar-like filters that
 are commonly employed in feature extraction applications. 
 
-<img src="images/Haar_like_F2.jpg" alt="Centered Image" style="display: block; margin: auto;" width="800">
+<img src="images/Haar_like_F2.jpg" alt="Centered Image" style="display: block; margin: auto;" width="2000">
 
 As illustrated in above figure, Haar-like filters are commonly represented as combinations of two or more rectangular regions composed of black and white pixels. 
 This figure showcases various examples of Haar-like filters, with the default weights clearly indicated on their respective rectangles. These filters can be applied for facial feature extraction as is shown in the next figure:
