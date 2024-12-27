@@ -76,11 +76,9 @@ image of size 64 × 64 is transformed to a row vector of length 4096 and inserte
    
 6. View the results in the MATLAB workspace.
    
-   The results include the graph of the optimized **fully dispersed Haar-like filter** for feature extraction:
-<img src="images/expriFilters.jpg" alt="Centered Image" style="display: block; margin: auto;" width="200">
-
-and the graph of the accuracy of the filter can be seen as a result of the code. 
-The confusion matrix includes the error of Haar-like filter for facial expression recognition classification is obtained:
+   The results include a graph contains optimized **fully dispersed Haar-like filter** for feature extraction, similar to the following picture:
+<img src="images/expriFilters.jpg" alt="Centered Image" style="display: block; margin: auto;" width="1800">
+Then The linear and quadratic SVM are utilized to derive the accurate results. The confusion matrix includes the error of Haar-like filter for facial expression recognition classification is obtained as follow:
    
 <img src="images/Table" alt="Centered Image" style="display: block; margin: auto;" width="400">
 
