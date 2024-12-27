@@ -83,7 +83,8 @@ The two-dimensional images are resized to 64 × 64 and converted into one dimens
    
 <img src="images/feature.png" alt="Centered Image" style="display: block; margin: auto;" width="800">
 
-Then The linear and quadratic SVM are utilized to derive the accurate results. The confusion matrix includes the missclassified samples are presented as results of code as:
+Then The linear and quadratic SVM are utilized to derive the accurate results. 
+The confusion matrix includes the missclassified samples are presented as follow for each iteration as:
 
 <img src="images/conf_linear.png" alt="Centered Image" style="display: block; margin: auto;" width="450">
 <img src="images/conf_quad.png" alt="Centered Image" style="display: block; margin: auto;" width="500">
