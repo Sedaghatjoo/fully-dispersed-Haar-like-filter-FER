@@ -95,7 +95,7 @@ for linear and quadratic SVM, respectively. The code will be run 20 times, and t
 <img src="images/linear.png" alt="Centered Image" style="display: block; margin: auto;" width="800">
 <img src="images/quadratic.png" alt="Centered Image" style="display: block; margin: auto;" width="800">
 
-for linear and quadratic SVM, respectively. One can see the accuracy of the classification is nearly 95% when quadratic SVM is applied.
+for linear and quadratic SVM, respectively. One can see the accuracy of the classification is totally upper than 95% when quadratic SVM is applied.
 
 ## Contribution Guidelines
 We welcome contributions to improve the algorithm, code, or documentation. If you'd like to contribute, please:
