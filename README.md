@@ -81,12 +81,12 @@ The two-dimensional images are resized to 64 × 64 and converted into one dimens
    
    The results include a graph contains optimized **fully dispersed Haar-like filter** for feature extraction, similar to the following picture:
    
-<img src="images/feature.png" alt="Centered Image" style="display: block; margin: auto;" width="800">
+<img src="images/feature.png" alt="Centered Image" style="display: block; margin: auto;" width="500">
 
 Then The linear and quadratic SVM are utilized to derive the accurate results. 
 The confusion matrix includes the missclassified samples are presented as follow for each iteration as:
 
-<img src="images/conf_linear.png" alt="Centered Image" style="display: block; margin: auto;" width="450">
+<img src="images/conf_linear.png" alt="Centered Image" style="display: block; margin: auto;" width="470">
 <img src="images/conf_quad.png" alt="Centered Image" style="display: block; margin: auto;" width="500">
 
 for linear and quadratic SVM, respectively. The code will be run 20 times, and the mean accuracy of the classification will be presented as follows:
