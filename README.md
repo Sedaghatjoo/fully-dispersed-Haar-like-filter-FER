@@ -47,7 +47,7 @@ Some facial images applied in this research are shown in the next figure.
 <img src="images/expression.png" alt="Centered Image" style="display: block; margin: auto;" width="800">
 
 The images are categorized into seven distinct emotional classes: anger (135 images), contempt (54 images), disgust (177 images), fear (75 images), happiness (207 images), sadness (84 images), and surprise (249 images). 
-The two-dimensional images are resized to 48×48 and converted into one dimensional vectors by arranging the pixels contained in the images. In this situation, an image of size 48×48 is transformed to a row vector of length 4096 and inserted in a dataset as a row.
+The two-dimensional images are resized to 48×48 and converted into one dimensional vectors by arranging the pixels contained in the images. In this situation, an image of size 48×48 is transformed to a row vector of length 2304 and inserted in a dataset as a row.
 
 ## Installation
 1. Clone this repository to your local machine:
