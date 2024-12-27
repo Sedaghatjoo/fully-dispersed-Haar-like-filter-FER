@@ -83,8 +83,8 @@ The two-dimensional images are resized to 64 × 64 and converted into one dimens
    
 <img src="images/feature.png" alt="Centered Image" style="display: block; margin: auto;" width="500">
 
-Then The linear and quadratic SVM are utilized to derive the accurate results. 
-The confusion matrix includes the missclassified samples are presented as follow for each iteration as:
+Next, linear and quadratic SVMs are utilized for classification. 
+The confusion matrix, which includes the number of misclassified samples, is presented below for each iteration:
 
 <img src="images/conf_linear.png" alt="Centered Image" style="display: block; margin: auto;" width="470">
 <img src="images/conf_quad.png" alt="Centered Image" style="display: block; margin: auto;" width="500">
@@ -95,7 +95,7 @@ for linear and quadratic SVM, respectively. The code will be run 20 times, and t
 <img src="images/linear.png" alt="Centered Image" style="display: block; margin: auto;" width="800">
 <img src="images/quadratic.png" alt="Centered Image" style="display: block; margin: auto;" width="800">
 
-for linear and quadratic SVM, respectively.
+for linear and quadratic SVM, respectively. One can see the accuracy of the classification is nearly 95% when quadratic SVM is applied.
 
 ## Contribution Guidelines
 We welcome contributions to improve the algorithm, code, or documentation. If you'd like to contribute, please:
