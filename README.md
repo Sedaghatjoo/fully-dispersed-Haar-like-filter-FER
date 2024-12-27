@@ -35,7 +35,7 @@ These filters are extracted for the facial experession recognaition with distinc
 <img src="images/expriFilters22.jpg" alt="Centered Image" style="display: block; margin: auto;" width="1800">
 
 
-[1] https://github.com/Sedaghatjoo/fully-dispersed-Haar-like-filter-FD/edit/main/README.md
+[1] https://github.com/Sedaghatjoo/fully-dispersed-Haar-like-filter-FD
 
 ## Contents
 - **MATLAB Code**: The main algorithm implemented in MATLAB for facial expression recognition. 
