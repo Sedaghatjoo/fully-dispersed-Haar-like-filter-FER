@@ -44,7 +44,7 @@ These filters are extracted for the facial experession recognaition with distinc
 
 Some facial images applied in this research are shown in the next figure.
 
-<img src="images/feature.png" alt="Centered Image" style="display: block; margin: auto;" width="800">
+<img src="images/expression.png" alt="Centered Image" style="display: block; margin: auto;" width="800">
 
 The images are categorized into seven distinct emotional classes: anger (135 images), contempt (54 images), disgust (177 images), fear (75 images), happiness (207 images), sadness (84 images), and surprise (249 images). 
 The two-dimensional images are resized to 64 × 64 and converted into one dimensional vectors by arranging the pixels contained in the images. In this situation, an image of size 64 × 64 is transformed to a row vector of length 4096 and inserted in a dataset as a row.
@@ -81,7 +81,7 @@ The two-dimensional images are resized to 64 × 64 and converted into one dimens
    
    The results include a graph contains optimized **fully dispersed Haar-like filter** for feature extraction, similar to the following picture:
    
-<img src="images/fiture.png" alt="Centered Image" style="display: block; margin: auto;" width="1800">
+<img src="images/feature.png" alt="Centered Image" style="display: block; margin: auto;" width="1000">
 
 Then The linear and quadratic SVM are utilized to derive the accurate results. The confusion matrix includes the missclassified samples are presented as results of code as:
 
